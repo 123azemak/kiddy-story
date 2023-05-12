@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  .slide {
+    width: 100vw;
+    height: 65vw;
+  }
+  .wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 400vw;
+   
+  }
+  .one {
+    background-image: url("img/repeating-vintage-paper-background.jpg");
+  }
+  .two {
+    background-image: url("img/repeating-vintage-paper-background.jpg");
+  }
+  .three {
+    background-image: url("img/repeating-vintage-paper-background.jpg");
+  }
+  .four {
+    background-image: url("img/repeating-vintage-paper-background.jpg");
+  }
+  
