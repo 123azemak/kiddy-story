@@ -4,7 +4,7 @@ body {
   }
   .slide {
     width: 100vw;
-    height: 65vw;
+    height: 46vw;
   }
   .wrapper {
     display: flex;
@@ -14,14 +14,18 @@ body {
   }
   .one {
     background-image: url("img/repeating-vintage-paper-background.jpg");
+    border: solid brown 1px;
   }
   .two {
     background-image: url("img/repeating-vintage-paper-background.jpg");
+    border: solid brown 1px;
   }
   .three {
     background-image: url("img/repeating-vintage-paper-background.jpg");
+    border: solid brown 1px;
   }
   .four {
     background-image: url("img/repeating-vintage-paper-background.jpg");
+    border: solid brown 1px;
   }
   
